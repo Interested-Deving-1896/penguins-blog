@@ -1,41 +1,75 @@
-# Website
+[update-readmes]   Mode: rewrite — migrating to template structure...
+# penguins-blog
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/Interested-Deving-1896/penguins-blog)
 
-### Installation
+<!-- AI:start:what-it-does -->
+_Description pending._
+<!-- AI:end:what-it-does -->
 
-```
-$ yarn
-```
+## Architecture
 
-### Local Development
+<!-- AI:start:architecture -->
+_Architecture documentation pending._
+<!-- AI:end:architecture -->
 
-```
-$ yarn start
-```
+## Install
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+<!-- Add installation instructions here. This section is yours — the AI will not modify it. -->
 
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
+```bash
+git clone https://github.com/Interested-Deving-1896/penguins-blog.git
+cd penguins-blog
 ```
 
-Not using SSH:
+## Usage
+
+<!-- Add usage examples here. This section is yours — the AI will not modify it. -->
+
+## Configuration
+
+<!-- Document configuration options here. This section is yours — the AI will not modify it. -->
+
+## CI
+
+<!-- AI:start:ci -->
+_CI documentation pending._
+<!-- AI:end:ci -->
+
+## Mirror chain
+
+<!-- AI:start:mirror-chain -->
+This repo is maintained in [`Interested-Deving-1896/penguins-blog`](https://github.com/Interested-Deving-1896/penguins-blog) and mirrored through:
 
 ```
-$ GIT_USER=<Your GitHub username> yarn deploy
+Interested-Deving-1896/penguins-blog  ──►  OpenOS-Project-OSP/penguins-blog  ──►  OpenOS-Project-Ecosystem-OOC/penguins-blog
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Changes flow downstream automatically via the hourly mirror chain in
+[`fork-sync-all`](https://github.com/Interested-Deving-1896/fork-sync-all).
+Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-Deving-1896`.
+<!-- AI:end:mirror-chain -->
+
+## Contributors
+
+<!-- AI:start:contributors -->
+_Contributors pending._
+<!-- AI:end:contributors -->
+
+## Origins
+
+<!-- AI:start:origins -->
+_Original project — no upstream fork._
+<!-- AI:end:origins -->
+
+## Resources
+
+<!-- AI:start:resources -->
+_No additional resource files found._
+<!-- AI:end:resources -->
+
+## License
+
+<!-- AI:start:license -->
+<!-- License not detected — add a LICENSE file to this repo. -->
+<!-- AI:end:license -->
